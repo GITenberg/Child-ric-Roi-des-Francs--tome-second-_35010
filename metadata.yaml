@@ -1,0 +1,31 @@
+_repo: Child-ric-Roi-des-Francs--tome-second-_35010
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beaufort d’Hautpoul, Anne Marie, comtesse de
+    aliases:
+    - D'Hautpoul, Anne Marie Beaufort, comtesse
+    - Hautpoul, Anne Marie Beaufort d', comtesse
+    birthdate: 1763
+    deathdate: 1837
+    gutenberg_agent_id: '37376'
+    url: http://www.gutenberg.org/2009/agents/37376
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35010'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- To 987'
+- !lcc 'DC'
+- !lcsh 'Childéric I, King of the Franks, -481'
+title: Childéric, Roi des Francs, (tome second)
+url: http://www.gutenberg.org/ebooks/35010
